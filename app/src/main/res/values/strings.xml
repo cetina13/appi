@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Api pokemon</string>
+    <string name="tvTitle">Lista de Pokemones</string>
+    <string name="tvName">Api pokemon</string>
+    <string name="tvUrl">Lista de Pokemones</string>
+</resources>
